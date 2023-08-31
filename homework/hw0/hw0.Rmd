@@ -2,8 +2,8 @@
 title: "HW 0, Due Sep 5 beginning of class"
 subtitle: "Data 180, Professor Bilen"
 author: 
-  name: "Your Name"
-  email: "XXXX@dickinson.edu"
+  name: "Spencer Davis"
+  email: "davissp@dickinson.edu"
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output: 
   html_document
@@ -25,7 +25,7 @@ Go ahead and write an R code in the chunk below that prints your favorite movie.
 [1] "My favorite movie is Big Fish"
 
 ```{r}
-print("My favorite movie is Big Fish!")
+print("Super Mario Bros Movie!")
 ```
 
 ## Task 3
