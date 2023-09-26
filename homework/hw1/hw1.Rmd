@@ -57,6 +57,7 @@ d) Write R code that counts the total number of users who prefer Twitter.
 ```{r}
 
 nrow(subset(my_df,Preference=='Twitter'))
+table(my_df$Preference)
 
 ```
 e) Write R code that returns what Gisele prefers.
